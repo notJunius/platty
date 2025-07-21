@@ -1,2 +1,2 @@
 # platty
-a platforming game made using raylib and python
+a platforming game made using raylib and odin
